@@ -17,14 +17,14 @@ Currently pursuing BCA in CSE at Dr. Babasaheb Ambedkar Marathwada University, C
 💬 Ask me about Python.
 
 
-📫 How to reach me: kakdesantosh993@gmail.com 
+📫 How to reach me: kakdesantosh993@gmail.com.
 
 
 👨‍💻 Programming languages:
-Python ,Java Script , Sql.
+Python,Java Script,Sql.
 
 🧰 Frameworks and libraries:
-Django , Django Rest Framework ,Numpay ,Pandas, Matpotlib.
+Django , Django Rest Framework,Numpy,Pandas, Matpotlib.
 
 🗄️ Databases and cloud hosting :
 MySql, Sqlite, Aws.
